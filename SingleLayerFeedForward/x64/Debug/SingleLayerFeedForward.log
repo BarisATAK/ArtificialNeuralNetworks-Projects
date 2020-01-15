@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(429,91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(430,94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(437,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(437,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(446,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(446,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(451,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(451,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(456,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(456,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(461,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(461,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(466,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(466,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(614,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(615,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(622,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\SingleLayerFeedForward\MyForm.h(623,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SingleLayerFeedForward.vcxproj -> C:\Users\atakb\OneDrive\Desktop\SingleLayerFeedForward\x64\Debug\SingleLayerFeedForward.exe
