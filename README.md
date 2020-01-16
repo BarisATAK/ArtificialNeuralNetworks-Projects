@@ -1,6 +1,6 @@
-## Single Layer Feed Forward
+## Single Layer Feed Forward Network
                                                     
-Developed with C++.
+Developed using C++.
             
 ![single-layer-arch](https://user-images.githubusercontent.com/39070206/72481416-8c6d7200-380b-11ea-81d6-b502e4ad0e9b.png)
 
